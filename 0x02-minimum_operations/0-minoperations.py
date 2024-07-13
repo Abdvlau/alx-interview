@@ -1,4 +1,4 @@
-#!/usr/bin/env phyton
+#!/usr/bin/python3
 """ In a text file, there is initially a single character 'H'.
 Your text editor supports only two operations on this file:
 "Copy All" and "Paste". Given an integer n, write a function
